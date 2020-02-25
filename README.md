@@ -1,3 +1,3 @@
 # Malicious-UAV-Detection-Code
 Link to the dataset
-https://mega.nz/#!VFZxxCTI!mjf7uinE23eLhAx2XDZYftpcYykVpGtC9utiDnCzeCE
+https://www.kaggle.com/sonain/malicious-uavs-detection
